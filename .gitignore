@@ -1,0 +1,16 @@
+# Environment variables (VERY IMPORTANT - never upload secrets)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (DO NOT upload)
+.venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
